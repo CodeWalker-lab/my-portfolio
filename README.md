@@ -12,6 +12,6 @@
   - 概要：　設定した時間に選択したチャイム（.WAV）を鳴らすアプリ
   - 使用技術：　Python, VSCode
   - 利用方法：
-  - ①アプリファイル（.EXE）とサンプル音源ファイル（.WAV）をWindows PCにコピー
+  - ①[アプリファイル](https://github.com/CodeWalker-lab/scheduled_chime/blob/main/scheduled_chime.exe)（.EXE）とサンプル音源ファイル（.WAV）をWindows PCにコピー
   - ②アプリファイルを実行し、デフォルト時間から定刻に変更する。音源ファイルを選択して開始ボタンを押す。
  
