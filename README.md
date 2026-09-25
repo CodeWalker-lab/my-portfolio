@@ -1,7 +1,7 @@
 # My Portfolio
 これまでに作成したアプリの作品集です。
 
-- **[YobiDoon (Android App)](https://github.com/CodeWalker-lab/yobidoon-android)**
+- **[ようびドーン (Android App)](https://github.com/CodeWalker-lab/yobidoon-android)**
   - 概要: 曜日を拡大表示するAndroidアプリ・ウィジェット
   - 使用技術: Java, Android Studio, XML
   - 利用方法：
