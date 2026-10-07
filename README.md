@@ -12,3 +12,7 @@
 - **[スピーチタイマー（Windows App）](https://github.com/CodeWalker-lab/speech_timer#)**
   - 概要： 設定した時間に呼び鈴を鳴らすアプリ
   - 開発言語： Python, TyInter, VSCode
+
+- **[チェックリストサーブレット（Java SQL Servlet App）](https://github.com/CodeWalker-lab/checklist_servlet#)**
+  - 概要：　各人の課題の進歩状況をチェックしてリストアップするアプリ
+  - 開発言語：　Java, SQL, Servlet, JSP
